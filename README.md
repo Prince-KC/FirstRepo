@@ -1,4 +1,4 @@
 # FirstRepo
 It's my first Repo.
 <br>
-Creator- Prince KC
+Creator- Prince K.C
